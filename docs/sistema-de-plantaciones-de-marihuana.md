@@ -64,6 +64,8 @@ Una planta solo crece si está bien cuidada. Hay dos acciones de mantenimiento y
 
 Cada aplicación gasta entre **1 y 3 unidades** del envase, aunque solo sume +1 al medidor de la planta: conviene llevar repuestos. La salud nunca pasa de **10/10** y el agua y el fertilizante nunca pasan de **5/5**; si el medidor ya está al máximo, el comando te avisa y no gasta nada.
 
+**Tip para ahorrar fertilizante:** cuando tengas un fertilizante en la mano, usa `/extraerunidad 1`. Normalmente el fertilizante viene en dos unidades, y al extraer una tendrás dos fertilizantes separados de una unidad cada uno. Así puedes fertilizar dos veces una planta usando un solo fertilizante comprado, lo que resulta más económico y práctico.
+
 Estas tareas también entrenan tu **habilidad de drogas**:
 
 - Fertilizar: **50% de probabilidad** de sumar +1 punto.
